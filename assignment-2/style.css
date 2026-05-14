@@ -127,7 +127,7 @@ nav {
 .cards_box {
   margin-top: 30px;
   padding: 30px;
-  background-color: yellow;
+  /* background-color: yellow; */
 
   display: flex;
   gap: 20px;
